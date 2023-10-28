@@ -55,6 +55,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<fileName>order-service</fileName>
 	</build>
 
 </project>
